@@ -746,67 +746,6 @@ void Magic::start_func_key(){
 
 void Magic::ALLReady(){
 
-//    mImage->tmp_element[0][4] = 'y';
-//    mImage->tmp_element[1][4] = 'w';
-//    mImage->tmp_element[2][4] = 'b';
-//    mImage->tmp_element[3][4] = 'g';
-//    mImage->tmp_element[4][4] = 'r';
-//    mImage->tmp_element[5][4] = 'c';
-
-//    mImage->tmp_element[2][0] = 'g';
-//    mImage->tmp_element[2][1] = 'w';
-//    mImage->tmp_element[2][2] = 'y';
-//    mImage->tmp_element[2][3] = 'g';
-//    mImage->tmp_element[2][5] = 'w';
-//    mImage->tmp_element[2][6] = 'b';
-//    mImage->tmp_element[2][7] = 'w';
-//    mImage->tmp_element[2][8] = 'r';
-
-//    mImage->tmp_element[4][0] = 'c';
-//    mImage->tmp_element[4][1] = 'y';
-//    mImage->tmp_element[4][2] = 'y';
-//    mImage->tmp_element[4][3] = 'g';
-//    mImage->tmp_element[4][5] = 'r';
-//    mImage->tmp_element[4][6] = 'y';
-//    mImage->tmp_element[4][7] = 'b';
-//    mImage->tmp_element[4][8] = 'b';
-
-//    mImage->tmp_element[3][0] = 'g';
-//    mImage->tmp_element[3][1] = 'c';
-//    mImage->tmp_element[3][2] = 'y';
-//    mImage->tmp_element[3][3] = 'b';
-//    mImage->tmp_element[3][5] = 'b';
-//    mImage->tmp_element[3][6] = 'w';
-//    mImage->tmp_element[3][7] = 'y';
-//    mImage->tmp_element[3][8] = 'c';
-
-//    mImage->tmp_element[5][0] = 'b';
-//    mImage->tmp_element[5][1] = 'b';
-//    mImage->tmp_element[5][2] = 'w';
-//    mImage->tmp_element[5][3] = 'y';
-//    mImage->tmp_element[5][5] = 'r';
-//    mImage->tmp_element[5][6] = 'w';
-//    mImage->tmp_element[5][7] = 'r';
-//    mImage->tmp_element[5][8] = 'w';
-
-//    mImage->tmp_element[0][0] = 'r';
-//    mImage->tmp_element[0][1] = 'w';
-//    mImage->tmp_element[0][2] = 'r';
-//    mImage->tmp_element[0][3] = 'c';
-//    mImage->tmp_element[0][5] = 'g';
-//    mImage->tmp_element[0][6] = 'b';
-//    mImage->tmp_element[0][7] = 'g';
-//    mImage->tmp_element[0][8] = 'c';
-
-//    mImage->tmp_element[1][0] = 'g';
-//    mImage->tmp_element[1][1] = 'y';
-//    mImage->tmp_element[1][2] = 'r';
-//    mImage->tmp_element[1][3] = 'c';
-//    mImage->tmp_element[1][5] = 'r';
-//    mImage->tmp_element[1][6] = 'c';
-//    mImage->tmp_element[1][7] = 'c';
-//    mImage->tmp_element[1][8] = 'g';
-
     turn2_code();
 
     std::string  temp_out;
