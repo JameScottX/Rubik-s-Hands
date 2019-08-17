@@ -673,7 +673,6 @@ void colorhandle::get_Camera_params(){
 //    Camera_BRIGHTNESS_param = capture_f.get(CV_CAP_PROP_BRIGHTNESS);
 //    Camera_HUE_param = capture_f.get(CV_CAP_PROP_HUE);
 
-
     Camera_EXPOSURE_param = EXPOSURE_;
     Camera_SATURATION_param = SATURATION_;
     Camera_CONTRAST_param = CONTRAST_;
